@@ -132,6 +132,7 @@ print(y_prednew)
 ![Screenshot 2025-03-25 182154](https://github.com/user-attachments/assets/cb38dbf3-e69e-4f70-885d-77dbe6648648)
 
 ### Y_prednew
+![Screenshot 2025-04-17 140518](https://github.com/user-attachments/assets/ade28014-2b1e-4f54-88bd-9cebe0b82cee)
 
 
 ## Result:
